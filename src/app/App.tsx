@@ -55,7 +55,7 @@ export default function App() {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ delay: 0.2, type: 'spring', stiffness: 100 }}
               >
-                Judy, will you be my Valentine? 💖
+                Nyambura, will you be my Valentine? 💖
               </motion.h1>
 
               {escapeCount > 3 && (
